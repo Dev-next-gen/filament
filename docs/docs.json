@@ -159,6 +159,7 @@
               "pages/connectors/sources/hubspot",
               "pages/connectors/sources/instantly",
               "pages/connectors/sources/linear",
+              "pages/connectors/sources/livetennisapi",
               "pages/connectors/sources/mailchimp",
               "pages/connectors/sources/monday",
               "pages/connectors/sources/notion",
@@ -178,6 +179,7 @@
             "pages": [
               "pages/connectors/sinks/postgres",
               "pages/connectors/sinks/mysql",
+              "pages/connectors/sinks/kafka",
               "pages/connectors/sinks/nats",
               "pages/connectors/sinks/clickhouse",
               "pages/connectors/sinks/motherduck",
